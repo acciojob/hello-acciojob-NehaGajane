@@ -1,9 +1,7 @@
-
-/* Your CSS Code here. */
-#job {
-	width: 150px;
+.accio {
 	height: 150px;
-	background-color: black;
+	width: 150px;
+	background: #000000;
 }
 
 .hello-accio {
